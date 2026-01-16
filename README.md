@@ -27,9 +27,9 @@ count_fingers_on_gestures/
 
 
 ## How to Run
-1. Install required libraries
-2. Connect a webcam
-3. Run the finger counting script
+1. Install the required libraries.
+2. Connect a webcam or use the built-in camera.
+3. Run the finger-counting script.
 
 
 ## Finger Counting Logic (Important)
